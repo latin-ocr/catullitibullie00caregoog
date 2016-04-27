@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catullitibullie00caregoog_0007.png"; bbox 0 0 1875 2917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 576 602 1323 1268">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 576 602 1323 1268">
+     <span class='ocr_line' id='line_1_1' title="bbox 576 602 1323 1268; baseline 0 1649"><span class='ocrx_word' id='word_1_1' title='bbox 576 602 1323 1268; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 453 1362 1437 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 453 1362 1437 1995">
+     <span class='ocr_line' id='line_1_2' title="bbox 453 1362 1437 1497; baseline -0.001 -14"><span class='ocrx_word' id='word_1_2' title='bbox 453 1362 934 1497; x_wconf 75' lang='lat' dir='ltr'><strong>cATULLi,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 988 1410 1437 1497; x_wconf 86' lang='lat' dir='ltr'>TIBUL-LI,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 654 1732 1239 1829; baseline -0.002 -12"><span class='ocrx_word' id='word_1_4' title='bbox 654 1732 1239 1829; x_wconf 85' lang='lat' dir='ltr'>PROPERTII,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 765 1927 1115 1995; baseline 0.006 -2"><span class='ocrx_word' id='word_1_5' title='bbox 765 1927 1115 1995; x_wconf 86' lang='lat' dir='ltr'>OPERA.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
